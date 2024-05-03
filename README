@@ -1,0 +1,16 @@
+# Simple Summary Hightlight
+### Streamlit application
+
+to-run
+```sh
+$ python3 -m venv env
+```
+```sh
+$ source env/bin/activate
+```
+```sh
+$ pip install -r requirements.txt
+```
+```sh
+$ streamlit run streamlit.py --server.fileWatcherType none
+```
